@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\SistemaDePassagens\bin\Debug\netcoreapp3.1\SistemaDePassagens.exe
+C:\Users\ACER\Desktop\SistemaDePassagens\bin\Debug\netcoreapp3.1\SistemaDePassagens.deps.json
+C:\Users\ACER\Desktop\SistemaDePassagens\bin\Debug\netcoreapp3.1\SistemaDePassagens.runtimeconfig.json
+C:\Users\ACER\Desktop\SistemaDePassagens\bin\Debug\netcoreapp3.1\SistemaDePassagens.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\SistemaDePassagens\bin\Debug\netcoreapp3.1\SistemaDePassagens.dll
+C:\Users\ACER\Desktop\SistemaDePassagens\bin\Debug\netcoreapp3.1\SistemaDePassagens.pdb
+C:\Users\ACER\Desktop\SistemaDePassagens\obj\Debug\netcoreapp3.1\SistemaDePassagens.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\SistemaDePassagens\obj\Debug\netcoreapp3.1\SistemaDePassagens.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\SistemaDePassagens\obj\Debug\netcoreapp3.1\SistemaDePassagens.AssemblyInfo.cs
+C:\Users\ACER\Desktop\SistemaDePassagens\obj\Debug\netcoreapp3.1\SistemaDePassagens.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\SistemaDePassagens\obj\Debug\netcoreapp3.1\SistemaDePassagens.dll
+C:\Users\ACER\Desktop\SistemaDePassagens\obj\Debug\netcoreapp3.1\SistemaDePassagens.pdb
+C:\Users\ACER\Desktop\SistemaDePassagens\obj\Debug\netcoreapp3.1\SistemaDePassagens.genruntimeconfig.cache
